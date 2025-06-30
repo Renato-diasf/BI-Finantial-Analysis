@@ -1,44 +1,52 @@
-# Análise Financeira Interativa com Power BI
+# Interactive Financial Analysis with Power BI
 
-## Descrição
+## Project Description
 
-Este projeto de Business Intelligence foi desenvolvido utilizando o **Power BI** com o objetivo de analisar o desempenho financeiro de uma organização ao longo de três anos (2019–2022). A análise visa fornecer uma visão clara e estratégica das **receitas, despesas e margens de lucro**, com segmentações interativas para facilitar a tomada de decisão baseada em dados.
-
----
-
-## Objetivos
-
-- Avaliar a **receita total, despesa total e margem de lucro** no período analisado.  
-- Identificar **componentes que mais contribuem para a receita**, como vendas, licenciamento e publicidade.  
-- Comparar os **valores médios por componente de despesa**, como tecnologia, marketing, segurança etc.  
-- Detectar **segmentos com valores acima da média**, utilizando análise segmentada automatizada do Power BI.
+This Business Intelligence project was developed using **Power BI** to analyze the financial performance of an organization over a three-year period (2019–2022). The analysis aims to provide a clear and strategic view of **revenues, expenses, and profit margins**, with interactive segmentations to support data-driven decision-making.
 
 ---
 
-## Recursos e Funcionalidades
+## Objectives
 
-- Indicadores-chave (KPIs) de Receita, Despesa e Margem de Lucro  
-- Gráficos de barras comparativos de **receita por componente**  
-- Gráfico de linha com a **média de valor por tipo de despesa**  
-- Tabela de resumo anual (2019–2022) com totais agregados  
-- Segmentação interativa com destaque de **comportamentos acima da média**  
-- Interface responsiva com **filtros e drill-down**
+- Evaluate **total revenue, total expenses, and profit margin** for the analyzed period  
+- Identify **top revenue-generating components**, such as sales, licensing, and advertising  
+- Compare **average values by expense component**, including technology, marketing, and security  
+- Detect **segments with above-average values** using Power BI's automated segment analysis
 
 ---
 
-## Ferramentas Utilizadas
+## Features and Functionality
 
-- **Power BI Desktop** – criação do dashboard e modelagem de dados  
-- **Power Query** – transformação e limpeza de dados  
-- **DAX** – cálculo de métricas personalizadas (margem de lucro, médias, totais)
+- Key indicators (KPIs) for Revenue, Expenses, and Profit Margin  
+- Bar charts comparing **revenue by component**  
+- Line chart showing **average value by expense type**  
+- Annual summary table (2019–2022) with aggregated totals  
+- Interactive segmentation highlighting **above-average behavior**  
+- Responsive interface with **filters and drill-downs**
 
 ---
 
-## Principais Insights
+## Tools and Technologies
 
-- A **Receita Total** no período foi de **R$ 1,92 Mi**, enquanto a **Despesa Total** foi de **R$ 1,15 Mi**, resultando em uma **margem de lucro de aproximadamente 40%**.  
-- O componente **"Vendas"** é o principal gerador de receita, com **R$ 1,36 Mi acumulados**.  
-- Despesas com **Administração e Tecnologia** apresentaram os maiores valores médios.  
-- Um segmento específico apresentou um valor médio **5x superior** à média geral, indicando oportunidade de foco estratégico.
+- **Power BI Desktop** – dashboard creation and data modeling  
+- **Power Query** – data transformation and cleaning  
+- **DAX** – calculation of custom metrics (profit margin, averages, totals)
 
+---
 
+## Key Insights
+
+- **Total Revenue** during the period reached **R$ 1.92 million**, with **Total Expenses** of **R$ 1.15 million**, resulting in a **profit margin of approximately 40%**  
+- **Sales** is the leading revenue component, contributing **R$ 1.36 million**  
+- **Administration and Technology** had the highest average expenses  
+- A specific segment showed an average value **5x higher** than the overall average, indicating a strategic opportunity
+
+---
+
+## Dashboard Preview
+
+![Power BI Dashboard](https://github.com/Renato-diasf/BI-Finantial-Analysis/blob/main/Dashboard.png)
+
+> The `.pbix` file is available in this repository and can be opened using **Power BI Desktop** (latest version recommended).
+
+---
